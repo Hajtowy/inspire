@@ -1,9 +1,8 @@
 <?php
 
-namespace Hajt\Inspire\Controllers;
+namespace Hajtowy\Inspire\Controllers;
 
-use Illuminate\Http\Request;
-use Hajt\Inspire\Inspire;
+use Hajtowy\Inspire\Inspire;
 
 class InspirationController
 {

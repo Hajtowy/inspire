@@ -1,9 +1,9 @@
 {
-    "name": "hajt/inspire",
+    "name": "hajtowy/inspire",
     "description": "First custom package for the laravel.",
     "autoload": {
         "psr-4": {
-            "Hajt\\Inspire\\": "src/"
+            "Hajtowy\\Inspire\\": "src/"
         }
     },
     "authors": [

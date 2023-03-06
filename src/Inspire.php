@@ -1,6 +1,6 @@
 <?php
 
-namespace Hajt\Inspire;
+namespace Hajtowy\Inspire;
 
 use Illuminate\Support\Facades\Http;
 

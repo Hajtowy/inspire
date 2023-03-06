@@ -1,6 +1,6 @@
 <?php
 
-namespace Hajt\Inspire\Providers;
+namespace Hajtowy\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
